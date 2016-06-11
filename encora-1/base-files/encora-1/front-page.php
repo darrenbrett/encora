@@ -1,6 +1,6 @@
 <?php
 /**
- * This file adds the Home Page to the Executive Pro Theme.
+ * This file adds the Home Page to the Encora Theme.
  *
  * @author CMS Themefactory
  * @package Refined
